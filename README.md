@@ -1,4 +1,4 @@
-# YouTube Downloader Docker Image
+# 📥 YouTube Downloader Docker Image
 
 This repository contains a Dockerfile to build a Docker image for downloading YouTube videos using [yt-dlp](https://github.com/yt-dlp/yt-dlp), a powerful and feature-rich command-line program to download videos from YouTube and other video platforms.
 
